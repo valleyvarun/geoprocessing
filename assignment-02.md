@@ -23,7 +23,7 @@ This dataset is stored as `blr-restaurants.geojson`.
 The related dataset is the Bengaluru Namma Metro network, which I obtained from the [geohacker/namma-metro](https://github.com/geohacker/namma-metro) repository.  
 It contains both the metro lines (as LineString features) and the stations (as Point features). I modified the original dataset slightly to adjust styling and correct some details, saving the final file as `metro_lines_styled_cgpt.geojson`.
 
-![Description of image](images/namma metro plan.png)
+![Description of image](images/namma-metro-plan.png)
 
 ---
 
