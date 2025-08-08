@@ -1,0 +1,317 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mavalli Tiffin Rooms (MTR)",
+        "category": "restaurant",
+        "cuisine": "South Indian",
+        "neighborhood": "Lalbagh Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.58555345632968, 12.955195033434212]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sri Sagar (CTR)",
+        "category": "restaurant",
+        "cuisine": "South Indian",
+        "neighborhood": "Malleshwaram"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.56953421529857, 12.998111786255615]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Davanagere Benne Dose",
+        "category": "restaurant",
+        "cuisine": "South Indian",
+        "neighborhood": "JP Nagar, Kanakapura Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.57310432526296, 12.909156016473958]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taco Bell (Gopalan Mall)",
+        "category": "restaurant",
+        "cuisine": "Fast Food",
+        "neighborhood": "Gopalan Mall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.59949761194909, 12.91416598004704]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "California Burrito (JP Nagar)",
+        "category": "restaurant",
+        "cuisine": "Mexican",
+        "neighborhood": "JP Nagar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.59039785888594, 12.906367169149451]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vidyarthi Bhavan",
+        "category": "restaurant",
+        "cuisine": "South Indian",
+        "neighborhood": "Basavanagudi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.5713830246814, 12.945222698258018]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kobe Sizzlers (Koramangala)",
+        "category": "restaurant",
+        "cuisine": "Continental",
+        "neighborhood": "Koramangala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.62191567644422, 12.933531002441626]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adyar Ananda Bhavan (A2B) – Kanakapura Road",
+        "category": "restaurant",
+        "cuisine": "South Indian",
+        "neighborhood": "Kanakapura Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.54867909637852, 12.883894039852315]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bhaskar’s Mane Holige (Jayanagar 4th Block)",
+        "category": "restaurant",
+        "cuisine": "Sweets",
+        "neighborhood": "Jayanagar 4th Block"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.58186253277867, 12.928946849903486]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puliyogare Point (Jayanagar)",
+        "category": "restaurant",
+        "cuisine": "South Indian",
+        "neighborhood": "Jayanagar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.57040919719496, 12.940772436692596]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brik Oven (Ashok Nagar)",
+        "category": "restaurant",
+        "cuisine": "Bakery / Café",
+        "neighborhood": "Ashok Nagar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.6053914857537, 12.974840116211258]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Biryani Blues (Church Street)",
+        "category": "restaurant",
+        "cuisine": "Biryani",
+        "neighborhood": "Church Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.60578211663308, 12.9748226142926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meghana Foods (Residency Road)",
+        "category": "restaurant",
+        "cuisine": "Andhra/Biryani",
+        "neighborhood": "Residency Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.60922700367686, 12.9729553006337]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brahmin’s Tiffin & Coffee (Jayanagar)",
+        "category": "restaurant",
+        "cuisine": "South Indian",
+        "neighborhood": "Jayanagar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.58156505875958, 12.931050153593592]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beijing Bites (Indiranagar)",
+        "category": "restaurant",
+        "cuisine": "Chinese",
+        "neighborhood": "Indiranagar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.63879469176109, 12.978012457081276]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lucky Chan (Indiranagar)",
+        "category": "restaurant",
+        "cuisine": "Asian",
+        "neighborhood": "Indiranagar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.64276573200594, 12.970504245647458]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Corner House Ice Creams (Jayanagar 9th Block)",
+        "category": "restaurant",
+        "cuisine": "Desserts",
+        "neighborhood": "Jayanagar 9th Block"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.59337454346982, 12.917882197461958]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baskin Robbins (Kanakapura Road)",
+        "category": "restaurant",
+        "cuisine": "Desserts",
+        "neighborhood": "Kanakapura Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.54636443817402, 12.883134792500693]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaippunnyam Kerala Restaurant (Ashok Nagar)",
+        "category": "restaurant",
+        "cuisine": "Kerala",
+        "neighborhood": "Ashok Nagar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.60661697540283, 12.970747704729353]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vayu Vihar Aerospace Canteen (IISc)",
+        "category": "restaurant",
+        "cuisine": "Cafeteria",
+        "neighborhood": "IISc – Aerospace Department"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.56261987381725, 13.026670040910169]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nexus Vega City Mall (BTM Layout)",
+        "category": "mall",
+        "cuisine": "",
+        "neighborhood": "BTM Layout"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.60106770799996, 12.907775067569972]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mantri Square Mall (Malleshwaram)",
+        "category": "mall",
+        "cuisine": "",
+        "neighborhood": "Malleshwaram"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.57054169804822, 12.991202278052906]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prestige Falcon City Mall (Konanakunte)",
+        "category": "mall",
+        "cuisine": "",
+        "neighborhood": "Konanakunte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.56246896178361, 12.887546034921336]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orion Mall (Rajajinagar)",
+        "category": "mall",
+        "cuisine": "",
+        "neighborhood": "Rajajinagar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.55414081728601, 13.01312470329835]
+      }
+    }
+  ]
+}
